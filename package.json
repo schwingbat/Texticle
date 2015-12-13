@@ -1,0 +1,15 @@
+{
+  "name": "texticle",
+  "longname": "Texticle",
+  "namespace": "me.tonymccoy.texticle",
+  "version": "0.0.1",
+  "description": "A simple Markdown & plain text editor.",
+  "author": "Tony McCoy <toonytony@gmail.com>",
+  "sources": {
+    "directory":"."
+  },
+  "icon": { "windows":["someicon.png"], "osx":["someicon.png"] },
+  "main": "app.js",
+  "license": "MIT",
+  "copyright": "2015 Tony McCoy"
+}
